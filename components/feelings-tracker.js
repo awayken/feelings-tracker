@@ -1,6 +1,6 @@
-// import whatever we need
-
 import { LitElement, html } from 'lit-element';
+
+import './feeling-label.js';
 
 class App extends LitElement {
   render() {
